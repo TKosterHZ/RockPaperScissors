@@ -1,0 +1,5 @@
+class Rock implements Move {
+    public boolean beats(Move other) {
+        return other instanceof Scissors;
+    }
+}
