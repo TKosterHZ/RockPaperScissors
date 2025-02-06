@@ -22,8 +22,8 @@ This is a simple Rock-Paper-Scissors game implemented in Java using six differen
 3. The game will determine the winner and display the result.
 
 ## Contributors
--[Tom Koster/TkosterHZ] - Responsible for implementing game creation and maintenance.
--[Pieter Jan Treur/pieterjantreur] - Responsible for implementing the code of moves and players.
+* [Tom Koster/TkosterHZ] - Responsible for implementing game creation and maintenance.
+* [Pieter Jan Treur/pieterjantreur] - Responsible for implementing the code of moves and players.
 
 ## License
 MIT License
