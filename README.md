@@ -25,5 +25,8 @@ This is a simple Rock-Paper-Scissors game implemented in Java using six differen
 * [Tom Koster/TkosterHZ] - Responsible for implementing game creation and maintenance.
 * [Pieter Jan Treur/pieterjantreur] - Responsible for implementing the code of moves and players.
 
+## Repository
+* https://github.com/TKosterHZ/RockPaperScissors
+
 ## License
 MIT License
